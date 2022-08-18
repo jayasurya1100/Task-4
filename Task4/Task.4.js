@@ -55,11 +55,11 @@ console.log("Myvar :",myvar);
 
 //3.Declare variables to store your first name, last name, marital status, country and age in multiple lines:
 var file={
-    first_name:"suryaakrishnan",
-    last_name:"j",
+    first_name:"surya",
+    last_name:"T",
     marital_status:"unmarried",
     country:"india",
-    age:"21"
+    age:"20"
 }
 console.log("multiple line :", file);
 
